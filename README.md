@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Justina;Data+Analyst+in+Training;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Justina;Data+Analyst" alt="Animated Header" />
 </p>
 
 # 👋 Hi, I’m Justina
-
-> *I help organisations turn data into insights that drive smarter business decisions.*
 
 I’m a **Data Analyst in training**, currently learning and building projects in **Data Analysis & Business Intelligence**. I’m passionate about uncovering patterns, simplifying complexity, and transforming raw data into clear, actionable insights.
 
