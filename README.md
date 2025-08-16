@@ -48,5 +48,3 @@ I’m a **Data Analyst**, currently learning and building projects in **Data Ana
 ## 🧩 Fun bits
 - Based in **Lagos, Nigeria**.
 - I loveeee **reading, swimming, and learning new things**.
-
----
