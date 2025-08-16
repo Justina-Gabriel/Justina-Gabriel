@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Justina+Gabriel;Data+Analyst" alt="Animated Header" />
 </p>
 
-# 👋 Hi, I’m Justina
-
 I’m a **Data Analyst**, currently learning and building projects in **Data Analysis & Business Intelligence**. I’m passionate about uncovering patterns, simplifying complexity, and transforming raw data into clear, actionable insights.
 
 
@@ -23,17 +21,17 @@ I’m a **Data Analyst**, currently learning and building projects in **Data Ana
 <div align="center">
 
 📘 **Data Analytics Project**  
-*Collection of real-world analysis projects, case studies, and dashboards*  
+*My first captone project*  
 `SQL` • [Repo](https://github.com/Justina-Gabriel/DataAnalytics-Project)
 
 </div>
 
 ## 📊 GitHub at a glance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justina-Gabriel&show_icons=true&hide_title=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justina-Gabriel&show_icons=true&hide_title=true)](https://github.com/Justina-Gabriel)
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justina-Gabriel&layout=compact)](https://github.com/Justina-Gabriel)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justina-Gabriel&layout=compact)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Justina-Gabriel)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Justina-Gabriel)](https://github.com/Justina-Gabriel)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Justina-Gabriel&style=for-the-badge&color=blue" alt="Profile Views" />
