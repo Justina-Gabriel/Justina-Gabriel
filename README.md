@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Justina+Gabriel;Data+Analyst" alt="Animated Header" />
 </p>
 
-I’m a **Data Analyst**, currently learning and building projects in **Data Analysis & Business Intelligence**. I’m passionate about uncovering patterns, simplifying complexity, and transforming raw data into clear, actionable insights.
-
+I began my data analytics journey at the start of 2025, driven by a deep curiosity to uncover insights hidden in numbers. What started as simple SQL queries has grown into a passion for building dashboards, solving business problems, and transforming raw data into meaningful stories. Every day, I’m learning, experimenting, and sharpening my craft because I believe data has the power to change how we see the world.
 
 ## 🧰 Tech Stack
 <p align="center">
