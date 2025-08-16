@@ -35,8 +35,8 @@ I’m a **Data Analyst**, currently learning and building projects in **Data Ana
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Justina-Gabriel&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-100+-brightgreen?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Justina-Gabriel?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Justina-Gabriel?style=for-the-badge" alt="Stars" />
 </p>
 
 
