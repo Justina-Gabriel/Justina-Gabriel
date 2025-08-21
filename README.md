@@ -56,5 +56,4 @@ I began my data analytics journey at the start of 2025, driven by a deep curiosi
 </a>  
 
 ## 🧩 Fun bits
-- Based in **Lagos, Nigeria**.
 - I loveeee **reading, swimming, and learning new things**.
